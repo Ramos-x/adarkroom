@@ -1,10 +1,10 @@
-A Dark Room
-===========
+## Deployed at https://adarkroom.dtft.net
+
+### A Dark Room
+
 > "awake. head throbbing. vision blurry. come light the fire."
 
 a minimalist text adventure game for your browser
-
-[Click to play](http://adarkroom.doublespeakgames.com)
 
 <table>
 <tr><th colspan=4>Available Languages</tr>
